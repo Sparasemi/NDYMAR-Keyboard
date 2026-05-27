@@ -3,7 +3,7 @@ A keyboard layout designed only for fun. This is a layout that started as a joke
 
 ## Preview:
 
-
+![Preview](/ndymar-keyboard-preview.png)
 
 # How to install the NDYMAR layout?
 
